@@ -84,7 +84,63 @@ To examine the rate of attrition of the employees based on their personal lives 
 																					
 																					
 																					
-![image](https://user-images.githubusercontent.com/45914807/187087682-9b08ea7d-6609-4873-a499-3a867a383760.png)
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+![image](https://user-images.githubusercontent.com/45914807/187094276-7e7b03de-24ff-4cbf-bb04-e57bed29bbf7.png)
+
 
 
 ------
