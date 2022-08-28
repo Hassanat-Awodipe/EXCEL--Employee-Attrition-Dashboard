@@ -25,7 +25,7 @@ Attrition of 1 says that the employee left the company while 0 says otherwise.
 ## OBJECTIVE									
 									
 To examine the rate of attrition of the employees based on their personal lives i.e marital status, age, etc. by the use of Excel.									
-The dashboard is shown on the penultimate sheet of the workbook. 									
+> The dashboard as seen below is shown on the penultimate sheet of the Excel workbook. The workbook can only be opened  in Excel after downloading.									
 
 
 
